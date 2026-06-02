@@ -6,7 +6,7 @@ El objetivo del proyecto es realizar un análisis exploratorio de datos y repres
 
 README.md
 
-Proyecto unidad 4 - Rendimiento en exámenes.xlsx - Copia del ejercicio en .xlsx
+Proyecto unidad 4 - Rendimiento en exámenes.xlsm - Copia del ejercicio en .xlsm
 
 StudentPerformanceFactors BRUTO.csv - Datos en bruto (tal cual se han descargados de la fuente correspondiente)
 
